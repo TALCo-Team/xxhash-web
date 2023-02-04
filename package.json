@@ -1,0 +1,8 @@
+{
+  "name": "xxhash-web",
+  "version": "1.0.0",
+  "description": "WASM compilation of the original xxHash library designed to work in a web browser, aswell as node.",
+  "main": "index.js",
+  "author": "Cesare Montresor",
+  "license": "MIT"
+}
